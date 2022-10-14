@@ -1,3 +1,8 @@
+'''
+In this project I used knowledge in
+functions as input and print, variables and string manipulation
+to create a program that generate a band name
+'''
 
 print("Hello welcome to band names. Let's go!! ")
 
